@@ -1,54 +1,36 @@
-# Kivy Calculator App
+# Temperature Connversion Program
 
 ## Description
 
-Calculator App: A simple, intuitive, and easy-to-use app is created using a Python framework for developing multitouch applications, and uix extension to Kivy providing Material Design components & themes. The app allows users to perform Basic arithmetic operations , Supports decimal numbers and Clear and intuitive interface.
+Temperature Conversion Program: Temperature Conversion Program: A program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales. The program should prompt the user to input a temperature value and the original unit of measurement. It should then convert the temperature to the other two units and display the converted values to the user. 
 
 ## Features
 
-- Basic arithmetic operations: addition, subtraction, multiplication, division, power and percentage.
-- Supports decimal numbers and calculations.
-- Clear and intuitive interface.
-- Responsive design for various screen sizes
-- Built with Python and Kivy library for cross-platform compatibility
+- User Input Handling
+- Unit Conversion Functions
+- Conversion Formulas
+- Result Display
+- Error Handling
+- Main Function
 
 
 ## Installation and Usage
 
 1. Clone this repository:
 
-   ```bash
-   https://github.com/Kumar-Arun-coder/PRODIGY_AD_01
-   ```
+   bash
+   https://github.com/Adarsh422/PRODIGY_SD_01
+   
 
-2. Install dependencies using pip:
+2. Run the application:
 
-   ```bash
-   pip install kivy 
-   ```
-
-3. Run the application:
-
-   ```bash
+   bash
    python main.py
-   ```
+   
 
 4. Add, manage, and track your tasks using the intuitive UI.
 
 ## Screenshots
 
-(![Calculator_Screenshot1](https://github.com/user-attachments/assets/6f65b625-9730-4ac8-848d-2951b4bbe300)
+(![Screenshot 2024-09-19 134349](https://github.com/user-attachments/assets/37308afb-88a4-4979-a0e7-915038143266)
 )
-(![Calculator_Screenshot2](https://github.com/user-attachments/assets/e280673e-f3fb-4422-bd52-701b2d99a79b)
-)
-(![Calculator_Screenshot3](https://github.com/user-attachments/assets/c0d79ef6-aa20-41cb-baa9-ee871c6da8c5)
-)
-
-## Dependencies
-
-- [Kivy](https://kivy.org/)
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
