@@ -1,19 +1,20 @@
-#Implement a Simple Contact Management System
-
+Build a Temperature Conversion Program
 ## Description
-Develop a program that allows users to store and manage contact information. The program should provide options to add a new contact by entering their name, phone number, and email address. It should also allow users to view their contact list, edit existing contacts, and delete contacts if needed. The program should store the contacts in memory or in a file for persistent storage.
-
+Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales. The program should prompt the user to input a temperature value and the original unit of measurement. It should then convert the temperature to the other two units and display the converted values to the user. For example, if the user enters a temperature of 25 degrees Celsius, the program should convert it to Fahrenheit and Kelvin, and present the converted values as outputs.
 
 ## Features
 
-- Add Contact
-- View Contact List
-- Edit Contact
-- Delete Contact
-- Save Contacts to File
-- Load Contacts from File
-- Search Contact
-- Exit Program
+ Convert Temperature
+    - Input Temperature Value
+    - Select Original Unit (Celsius, Fahrenheit, Kelvin)
+    - Convert to Other Two Units
+    - Display Converted Values
+
+Conversion Options
+
+- Celsius to Fahrenheit and Kelvin
+- Fahrenheit to Celsius and Kelvin
+- Kelvin to Celsius and Fahrenheit
 
 
 
@@ -23,7 +24,7 @@ Develop a program that allows users to store and manage contact information. The
 
    
    ```bash
-   https://github.com/sudharsan-sathyaprabhu/PRODIGY_SD_03
+   https://github.com/sudharsan-sathyaprabhu/PRODIGY_SD_01
    ```
 
 3. Run the application:
@@ -36,5 +37,5 @@ Develop a program that allows users to store and manage contact information. The
 
 ## Screenshots
 
-   (![image](https://github.com/user-attachments/assets/464e7b73-5928-474a-8df2-f19c2f8f23c0)
+   (![image](https://github.com/user-attachments/assets/103ffeec-7c85-4200-a2f1-4433d2a00a56)
 )
