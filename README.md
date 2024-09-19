@@ -19,10 +19,11 @@ Temperature Conversion Program: Temperature Conversion Program: A program that c
 1. Clone this repository:
 
    bash
-   https://github.com/Adarsh422/PRODIGY_SD_01
-   
+   '''
+   https://github.com/sudharsan-sathyaprabhu/PRODIGY_SD_01
+   '''
 
-2. Run the application:
+3. Run the application:
 
    bash
    python main.py
