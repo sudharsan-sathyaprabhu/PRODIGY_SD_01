@@ -33,5 +33,5 @@ Temperature Conversion Program: Temperature Conversion Program: A program that c
 
 ## Screenshots
 
-(![Screenshot 2024-09-19 134349](https://github.com/user-attachments/assets/37308afb-88a4-4979-a0e7-915038143266)
+   (![Screenshot 2024-09-19 140231](https://github.com/user-attachments/assets/aeea16f5-88d2-4ae1-84d5-2a4d2f6d1691)
 )
