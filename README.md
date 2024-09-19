@@ -1,17 +1,20 @@
-# Temperature Connversion Program
+#Implement a Simple Contact Management System
 
 ## Description
+Develop a program that allows users to store and manage contact information. The program should provide options to add a new contact by entering their name, phone number, and email address. It should also allow users to view their contact list, edit existing contacts, and delete contacts if needed. The program should store the contacts in memory or in a file for persistent storage.
 
-Temperature Conversion Program: Temperature Conversion Program: A program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales. The program should prompt the user to input a temperature value and the original unit of measurement. It should then convert the temperature to the other two units and display the converted values to the user. 
 
 ## Features
 
-- User Input Handling
-- Unit Conversion Functions
-- Conversion Formulas
-- Result Display
-- Error Handling
-- Main Function
+- Add Contact
+- View Contact List
+- Edit Contact
+- Delete Contact
+- Save Contacts to File
+- Load Contacts from File
+- Search Contact
+- Exit Program
+
 
 
 ## Installation and Usage
@@ -20,7 +23,7 @@ Temperature Conversion Program: Temperature Conversion Program: A program that c
 
    
    ```bash
-   https://github.com/sudharsan-sathyaprabhu/PRODIGY_SD_01
+   https://github.com/sudharsan-sathyaprabhu/PRODIGY_SD_03
    ```
 
 3. Run the application:
@@ -33,5 +36,5 @@ Temperature Conversion Program: Temperature Conversion Program: A program that c
 
 ## Screenshots
 
-   (![Screenshot 2024-09-19 140231](https://github.com/user-attachments/assets/aeea16f5-88d2-4ae1-84d5-2a4d2f6d1691)
+   (![image](https://github.com/user-attachments/assets/464e7b73-5928-474a-8df2-f19c2f8f23c0)
 )
